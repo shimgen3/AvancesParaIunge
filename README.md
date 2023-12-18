@@ -1,24 +1,25 @@
 # Progreso del Proyecto
 
-## Tarea 1: Uso de GitHUb
-- ✅ Hacer ppt para precentacion
-- ⬜ Precentar
-- ⬜ Crear Repositorio
-- ⬜ Subir codigos y dar accesos
+## Tarea 1: Uso de GitHub
+- [x] Crear presentación (ppt) para la presentación.
+- [ ] Presentar.
+- [ ] Crear repositorio.
+- [ ] Subir códigos y otorgar accesos.
 
-## Tarea 2: Buscar la mejor manera de pasar clipper a otro lenguaje
-- ✅ Busca las alternativas disponibles
-- ⬜ Probar metodos y aplicarlos
-- ⬜ realizar optimisaciones del proceso 
+## Tarea 2: Buscar la mejor manera de migrar Clipper a otro lenguaje
+- [x] Investigar las alternativas disponibles.
+- [ ] Probar métodos y aplicarlos.
+- [ ] Realizar optimizaciones del proceso.
 
-## Tarea 3: Trabajar en el FrontEnd de los sistemas
-- ⬜ buscar la mejor libreria para el apartados visual
-- ⬜ Hacer el frontend de la aplicacion debancos 
+## Tarea 3: Trabajar en el Frontend de los sistemas
+- [ ] Buscar la mejor biblioteca para la parte visual.
+- [ ] Desarrollar el frontend de la aplicación de bancos.
 
-## Tarea 4: Buscar el mejor lenguaje de programación 
-- ⬜ haer pruebas de rendimiento e inyeccion de datos
-- ⬜ Estudios de sostenivilidad enconomica 
+## Tarea 4: Buscar el mejor lenguaje de programación
+- [ ] Realizar pruebas de rendimiento e inyección de datos.
+- [ ] Realizar estudios de sostenibilidad económica.
 
-## Tarea 5: Recuperación del schema de la db 
-- ⬜ tener acceso a la db
-- ⬜ Sacar el schema de phpmyadmin o SQLWorkbench
+## Tarea 5: Recuperación del esquema de la base de datos
+- [ ] Obtener acceso a la base de datos.
+- [ ] Extraer el esquema mediante phpMyAdmin o SQL Workbench.
+
