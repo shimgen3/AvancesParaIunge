@@ -1,4 +1,4 @@
-# Informe sobre Opciones de Desarrollo para una Aplicación de Escritorio ERP
+# Opciones de Desarrollo para una Aplicación ERP
 
 ## Python
 
