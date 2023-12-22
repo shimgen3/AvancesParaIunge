@@ -1,9 +1,5 @@
 # Informe sobre Herramientas de IA para Desarrollo de Código
 
-## Introducción
-
-Las herramientas de inteligencia artificial (IA) para el desarrollo de código son aplicaciones de software que aprovechan la potencia de la inteligencia artificial para ayudar a los programadores en sus tareas de codificación. Estas aplicaciones tienen diversos propósitos, incluyendo la generación de código, la autocompletación de código y la depuración de código, entre otros. Pueden crear código en respuesta a las indicaciones del usuario y ofrecer sugerencias de código para autocompletar mientras los programadores participan activamente en tareas de codificación.
-
 ## Tareas Realizadas por las Herramientas de IA para Código
 
 1. **Generación de Código:** Las herramientas de IA pueden generar código basado en la entrada del usuario. Esto es útil para tareas como crear código básico o generar casos de prueba.
@@ -111,5 +107,63 @@ Sourcegraph Cody es un asistente de IA para desarrolladores. Acelera el trabajo 
 **Contras:**
 - No disponible para todos los lenguajes de programación.
 - No tan potente como algunas otras herramientas de IA para codificación.
+
+
+## 6. AskCodi
+
+**Descripción:**
+AskCodi está diseñado para optimizar tu experiencia de codificación con velocidad y precisión. Esta herramienta aprovecha las capacidades de OpenAI Codex para producir código, responder a consultas de programación y proporcionar recomendaciones de código. Mejora tu eficiencia en la codificación simplemente instalando la extensión AskCodi en tu entorno de desarrollo integrado (IDE) preferido, que incluye, entre otros, Visual Studio Code, PyCharm e IntelliJ IDEA. Además, extiende su asistencia a la generación de consultas SQL y la creación de DocStrings.
+
+**Características Especiales:**
+- Proporciona respuestas claras y directas a tus consultas de codificación.
+- Puede generar documentación para tu código.
+
+**Pros:**
+- Sugerencias precisas y relevantes.
+- Gratuito para desarrolladores individuales.
+
+**Contras:**
+- A veces puede sugerir completaciones incorrectas o irrelevantes.
+- No disponible para todos los lenguajes de programación.
+
+
+
+## 7. ChatGPT
+
+**Descripción:**
+ChatGPT es un chatbot de IA versátil que puede actuar como una herramienta de IA para desarrolladores. El modelo OpenAI GPT-4 impulsa asistentes de codificación como Copilot X y CodeGPT. Los programadores recomiendan el uso del modelo GPT-4 para tareas de programación, ya que es muy preciso y genera código sin errores.
+
+**Características Especiales:**
+- Puede ayudarte a depurar tu código y encontrar errores.
+- Puede generar documentación para tu código.
+- Puede generar código basado en tus instrucciones.
+
+**Pros:**
+- Puede ayudarte a aprender nuevos lenguajes de programación.
+- Puede ayudarte a escribir código de manera más rápida y eficiente.
+- Puede usarse para una variedad de tareas de codificación.
+
+**Contras:**
+- Costoso.
+
+
+
+## 8. Codiga
+
+**Descripción:**
+Codiga es una herramienta que utiliza IA para analizar código y ayudar a los desarrolladores a escribir código mejor, más rápido y más seguro. Codiga realiza análisis estático de código para la detección y resolución temprana de errores, revisiones automáticas de código para mejorar la calidad y eficiencia del código, y proporciona fragmentos de código para tareas rutinarias, optimizando la productividad.
+
+**Características Especiales:**
+- Análisis estático de código para la detección temprana y resolución de errores.
+- Revisiones automáticas de código para mejorar la calidad del código.
+- Proporciona fragmentos de código para tareas rutinarias.
+
+**Pros:**
+- Enfocado en la seguridad.
+- Funciona en todas partes, desde tu IDE hasta CI/CD.
+
+**Contras:**
+- Problemas de compatibilidad con ciertos entornos de desarrollo o flujos de trabajo podrían presentar desafíos.
+
 
 
