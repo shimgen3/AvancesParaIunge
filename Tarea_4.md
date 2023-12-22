@@ -85,7 +85,3 @@ React Native es un framework de desarrollo de aplicaciones móviles creado por F
 - Enfoque principal en aplicaciones móviles, la compatibilidad de escritorio puede ser limitada.
 - Menos rendimiento en comparación con aplicaciones nativas.
 
-## Conclusiones
-
-La elección del lenguaje dependerá de factores como la familiaridad del equipo de desarrollo, los requisitos específicos del proyecto y las preferencias personales. Cada opción tiene sus ventajas y desventajas, y es crucial considerar la experiencia del usuario, la eficiencia y la escalabilidad al elegir la tecnología para una aplicación de escritorio ERP.
-
