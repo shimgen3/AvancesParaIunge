@@ -17,7 +17,7 @@
 
 ## Tarea 4: Buscar el mejor lenguaje de programación
 - [x] Investigar estandares del mercado.
-- [x] Estudiar factivilidad de rendimiento y costos.
+- [x] Estudiar factibilidad de rendimiento y costos.
 - [ ] Pruebas de funcionamiento y rendimiento 
 
 ## Tarea 5: Recuperación del esquema de la base de datos
