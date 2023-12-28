@@ -131,7 +131,7 @@ AskCodi está diseñado para optimizar tu experiencia de codificación con veloc
 ## 7. ChatGPT
 
 **Descripción:**
-ChatGPT es un chatbot de IA versátil que puede actuar como una herramienta de IA para desarrolladores. El modelo OpenAI GPT-4 impulsa asistentes de codificación como Copilot X y CodeGPT. Los programadores recomiendan el uso del modelo GPT-4 para tareas de programación.
+ChatGPT es un chatbot de IA versátil que puede actuar como una herramienta de IA para desarrolladores. El modelo OpenAI GPT-4 impulsa asistentes de codificación como Copilot X y CodeGPT.
 
 **Características Especiales:**
 - Puede ayudarte a depurar tu código y encontrar errores.
