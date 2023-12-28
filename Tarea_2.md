@@ -2,13 +2,13 @@
 
 ## Tareas Realizadas por las Herramientas de IA para Código
 
-1. **Generación de Código:** Las herramientas de IA pueden generar código basado en la entrada del usuario. Esto es útil para tareas como crear código básico o generar casos de prueba.
+1. **Generación de Código:** Las IA pueden generar código basado en la entrada del usuario. Esto es útil para tareas como crear código básico o generar casos de prueba.
 
-2. **Autocompletado de Código:** Las herramientas de IA pueden autocompletar código mientras el usuario escribe, ahorrando tiempo y reduciendo errores.
+2. **Autocompletado de Código:** Pueden autocompletar código mientras el usuario escribe, ahorrando tiempo y reduciendo errores.
 
 3. **Depuración de Código:** Las herramientas de IA pueden ayudar en la depuración de código al sugerir posibles soluciones a problemas.
 
-4. **Explicación de Código:** Las herramientas de IA pueden explicar el código a los usuarios. Esto puede ser útil para entender código complejo o aprender nuevos lenguajes de programación.
+4. **Explicación de Código:** Estas herramientas pueden explicar el código a los usuarios. Esto puede ser útil para entender código complejo o aprender nuevos lenguajes de programación.
 
 ## Principales Herramientas de IA para Codificación
 
