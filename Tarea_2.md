@@ -109,7 +109,7 @@ Sourcegraph Cody es un asistente de IA para desarrolladores. Acelera el trabajo 
 - No tan potente como algunas otras herramientas de IA para codificación.
 
 
-## 6. AskCodi
+### 6. AskCodi
 
 **Descripción:**
 AskCodi está diseñado para optimizar tu experiencia de codificación con velocidad y precisión. Esta herramienta aprovecha las capacidades de OpenAI Codex para producir código, responder a consultas de programación y proporcionar recomendaciones de código. Mejora tu eficiencia en la codificación simplemente instalando la extensión AskCodi en tu entorno de desarrollo integrado (IDE) preferido, que incluye, entre otros, Visual Studio Code, PyCharm e IntelliJ IDEA. Además, extiende su asistencia a la generación de consultas SQL y la creación de DocStrings.
@@ -128,7 +128,7 @@ AskCodi está diseñado para optimizar tu experiencia de codificación con veloc
 
 
 
-## 7. ChatGPT
+### 7. ChatGPT
 
 **Descripción:**
 ChatGPT es un chatbot de IA versátil que puede actuar como una herramienta de IA para desarrolladores. El modelo OpenAI GPT-4 impulsa asistentes de codificación como Copilot X y CodeGPT.
@@ -148,7 +148,7 @@ ChatGPT es un chatbot de IA versátil que puede actuar como una herramienta de I
 
 
 
-## 8. Codiga
+### 8. Codiga
 
 **Descripción:**
 Codiga es una herramienta que utiliza IA para analizar código y ayudar a los desarrolladores a escribir código mejor, más rápido y más seguro. Codiga realiza análisis estático de código para la detección y resolución temprana de errores, revisiones automáticas de código para mejorar la calidad y eficiencia del código, y proporciona fragmentos de código para tareas rutinarias, optimizando la productividad.
