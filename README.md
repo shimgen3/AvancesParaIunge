@@ -13,7 +13,7 @@
 
 ## Tarea 3: Trabajar en el Frontend de los sistemas
 - [x] Buscar la mejor biblioteca para la parte visual.
-- [ ] Desarrollar el frontend de la aplicación de bancos.(falta)
+- [x] Desarrollar el frontend de la aplicación de bancos.
 
 ## Tarea 4: Buscar el mejor lenguaje de programación
 - [x] Investigar estandares del mercado.
@@ -21,10 +21,10 @@
 - [ ] Pruebas de funcionamiento y rendimiento (falta)
 
 ## Tarea 5: Recuperación del esquema de la base de datos
-- [ ] Obtener acceso a la base de datos.(hablar con julio)
-- [ ] Extraer el esquema mediante phpMyAdmin o SQL Workbench.(hablar con julio)
-
+- [x] Obtener acceso a la base de datos.(hablar con julio)
+- [x] Extraer el esquema mediante phpMyAdmin o SQL Workbench.(hablar con julio)
+- [ ] Hacer documentación
 ## Tarea 6: Central telefonica
-- [ ] Bucar alternativas(ej: https://www.asterisk.org/)
-- [ ] Evaluar costos
+- [x] Bucar alternativas(ej: https://www.asterisk.org/)
+- [x] Evaluar costos
 - [ ] presentar alternativas
