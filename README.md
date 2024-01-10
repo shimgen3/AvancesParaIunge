@@ -15,6 +15,14 @@
 - [x] Buscar la mejor biblioteca para la parte visual.
 - [x] Desarrollar el frontend de la aplicación de bancos.
 
+### 5 puntos
+- usabilidad(buscar opiniones)(ver con alejandro y vero)
+- flujo de trabajo()
+- centralización en dolares
+- carga automatica de cartolas
+- operaciones transaccionales(sql)
+- redondeo de pesos 
+
 ## Tarea 4: Buscar el mejor lenguaje de programación
 - [x] Investigar estandares del mercado.
 - [x] Estudiar factibilidad de rendimiento y costos.
