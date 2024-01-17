@@ -45,6 +45,11 @@ El siguiente paso es seleccionar el equipo necesario para la instalación. El eq
 La instalación de la central telefónica IP suele ser realizada por un proveedor de servicios de telefonía IP. La central telefónica se conecta a la red y se configura para atender las necesidades de la empresa.
 
 Aquí existen 2 opciones, arrendar un servidor externo o hacer una maquina virtual en el servidor virtual para hacer una central teefonica con Asterisk
+opcion externa
+![3CX](Files\3CX.png)
+
+opción en server propio 
+![FreePBX](Files\FreePBX.png)
 
 4. Instalación de los teléfonos IP
 
