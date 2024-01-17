@@ -18,10 +18,10 @@ Tambien esta la opcion que recomienda el tecnico de GTD
 ### iContel
 
 
-Cotización en iContel [Ver Documento](Files\Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_arriendo pdf.pdf).
+Cotización en iContel [Ver Documento](Files\"Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_arriendo pdf.pdf").
 
 
-Cotización en iContel [Ver Documento](Files\Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_Vta pdf.pdf).
+Cotización en iContel [Ver Documento](Files\"Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_Vta pdf.pdf").
 
 ### GTD
 Falta que llegue 
@@ -73,19 +73,27 @@ Seguridad: La seguridad de la red es un aspecto importante a tener en cuenta, ya
 ### Pros de realizar la instalación uno mismo
 
 Coste: La instalación de telefonía IP puede ser más económica si la realiza la propia empresa.
+
 Flexibilidad: La empresa puede elegir el equipo y la configuración que mejor se adapten a sus necesidades.
+
 Aprendizaje: La empresa puede aprender a realizar la instalación de telefonía IP por sí misma, lo que puede ser beneficioso en caso de que necesite realizar cambios en el futuro.
 Contras de realizar la instalación uno mismo
 
 Tiempo: La instalación de telefonía IP puede llevar tiempo y esfuerzo, especialmente si la empresa no tiene experiencia en ello.
+
 Complejidad: La instalación de telefonía IP puede ser compleja, especialmente si la empresa tiene una red grande o complejas necesidades de comunicación.
+
 Riesgo: Si la instalación no se realiza correctamente, puede afectar al rendimiento del sistema o incluso provocar fallos.
 ### Pros de contratar una empresa para la instalación
 
 Eficiencia: Las empresas especializadas en la instalación de telefonía IP tienen experiencia y conocimientos para realizar la instalación de forma rápida y eficiente.
+
 Garantía: Las empresas suelen ofrecer garantías sobre su trabajo, por lo que la empresa está protegida en caso de problemas.
+
 Soporte: Las empresas suelen ofrecer soporte técnico en caso de problemas con el sistema.
+
 Contras de contratar una empresa para la instalación
 
 Coste: Contratar una empresa para la instalación puede ser más caro que realizarla uno mismo.
+
 Pérdida de control: La empresa pierde el control sobre la instalación, ya que la empresa especializada es la que toma las decisiones sobre el equipo y la configuración.
