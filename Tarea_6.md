@@ -41,6 +41,9 @@ El primer paso es evaluar la red de la empresa para determinar si es compatible 
 
 El siguiente paso es seleccionar el equipo necesario para la instalación. El equipo básico consiste en una central telefónica IP, teléfonos IP y, en algunos casos, gateways para conectar líneas telefónicas analógicas o digitales.
 
+Yealink SIP-T30P [Link](https://www.winpy.cl/venta/telefono-ip-basico-yealink-con-1-linea-2-puertos-red-10-100-poe-conferencia-5-via/?gclid=CjwKCAiAkp6tBhB5EiwANTCx1D3QOJvBC4kztsRyQXRRSNT-TxQbzk-a-KjlbSIuyhu4zGPdexRR7hoCS8oQAvD_BwE).
+
+
 3. Instalación de la central telefónica
 
 La instalación de la central telefónica IP suele ser realizada por un proveedor de servicios de telefonía IP. La central telefónica se conecta a la red y se configura para atender las necesidades de la empresa.
