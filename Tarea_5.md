@@ -3,3 +3,4 @@ El diagrama se creo en base del schema de la base de datos pero no existen relac
 Falta organizar y hacer la documntacion completa
 ![Diagrama DB](Files/img.png)
 
+

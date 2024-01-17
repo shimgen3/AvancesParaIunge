@@ -23,6 +23,9 @@
 - operaciones transaccionales(sql)
 - redondeo de pesos 
 
+- pago multiempresa por servipag
+- habilitar cheques automaticamente despues de 24 horas 
+
 ## Tarea 4: Buscar el mejor lenguaje de programación
 - [x] Investigar estandares del mercado.
 - [x] Estudiar factibilidad de rendimiento y costos.
