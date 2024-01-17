@@ -19,10 +19,10 @@ Tambien esta la opcion que recomienda el tecnico de GTD
 ### iContel
 
 
-Cotización en iContel [Ver Documento](Files\Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_arriendo.pdf).
+Cotización en iContel [Ver Documento](Files/Telefonia_IP_arriendo.pdf).
 
 
-Cotización de venta en iContel [Ver Documento](Files\Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_Vta.pdf).
+Cotización de venta en iContel [Ver Documento](Files/Telefonia_IP_Vta.pdf).
 
 ### GTD
 Falta que llegue 
@@ -47,10 +47,10 @@ La instalación de la central telefónica IP suele ser realizada por un proveedo
 
 Aquí existen 2 opciones, arrendar un servidor externo o hacer una maquina virtual en el servidor virtual para hacer una central teefonica con Asterisk
 opcion externa
-![3CX](Files\3CX.png)
+![3CX](Files/3CX.png)
 
 opción en server propio 
-![FreePBX](Files\FreePBX.png)
+![FreePBX](Files/FreePBX.png)
 
 4. Instalación de los teléfonos IP
 
