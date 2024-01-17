@@ -1,5 +1,6 @@
 # Tarea 6: Central telefonica
 
+costos actuales: 63.426
 
 ## Opciones de PBX
 Asterisk es un framework para aplicaciones de comunicación
@@ -57,20 +58,24 @@ Los teléfonos IP se conectan a la red mediante cable Ethernet. En algunos casos
 
 5. Configuración de los teléfonos IP
 
-Los teléfonos IP deben ser configurados para conectarse a la central telefónica IP. La configuración suele realizarse mediante un software de administración proporcionado por el proveedor de servicios de telefonía IP.
+Los teléfonos IP deben ser configurados para conectarse a la central telefónica IP(PBX). La configuración suele realizarse mediante un software de administración proporcionado por el proveedor de servicios de telefonía IP.
 
-6. Pruebas
+6. Configurción del VoIP
+Actualmente, la empresa cuenta con VoIP configurado; sin embargo, al momento de instalar el PBX, es necesario re-configurar la conexión con el VoIP con la asistencia del proveedor de servicios de internet (GTD).
 
-Una vez que el sistema esté instalado, es necesario realizar pruebas para verificar su correcto funcionamiento. Las pruebas deben incluir llamadas internas y externas.
+
 
 Detalles técnicos
 
 A continuación se detallan algunos de los aspectos técnicos más importantes a tener en cuenta en la instalación de telefonía IP en una empresa:
 
-Ancho de banda: El ancho de banda necesario para la telefonía IP depende del número de extensiones y del tipo de llamadas que se realicen. En general, se recomienda un ancho de banda de al menos 1 Mbps por extensión para llamadas internas y de 2 Mbps por extensión para llamadas externas.
+Ancho de banda: El ancho de banda necesario para la telefonía IP depende del número de extensiones y del tipo de llamadas que se realicen. En general, se recomienda un ancho de banda de al menos 1 Mbps por extensión para llamadas internas y de 2 Mbps por extensión para llamadas externas. Ancho de banda actual 100 mbp
+
 Calidad de la conexión: La calidad de la conexión a Internet es un factor importante para garantizar una buena calidad de voz en las llamadas. La conexión debe ser estable y con un ping bajo.
+
 Configuración de la red: La configuración de la red debe permitir la transmisión de tráfico de voz y datos de forma simultánea. Para ello, es necesario configurar la red para que use el protocolo IP.
-Seguridad: La seguridad de la red es un aspecto importante a tener en cuenta, ya que la telefonía IP utiliza la red para transmitir la voz. Es importante implementar medidas de seguridad para proteger la información transmitida.
+
+
 
 
 ## pros y contras
