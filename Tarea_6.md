@@ -78,6 +78,8 @@ Ancho de banda: El ancho de banda necesario para la telefonía IP depende del n�
 
 ![MbpsTest](Files/MbpsTest.png)
 
+![MbpsTest2](Files/MbpsTest2.png)
+
 Calidad de la conexión: La calidad de la conexión a Internet es un factor importante para garantizar una buena calidad de voz en las llamadas. La conexión debe ser estable y con un ping bajo.
 
 Configuración de la red: La configuración de la red debe permitir la transmisión de tráfico de voz y datos de forma simultánea. Para ello, es necesario configurar la red para que use el protocolo IP.
