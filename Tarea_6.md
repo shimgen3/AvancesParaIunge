@@ -59,6 +59,8 @@ opción en server propio
 
 Los teléfonos IP se conectan a la red mediante cable Ethernet. En algunos casos, los teléfonos IP pueden conectarse a la red inalámbricamente.
 
+![Telefonos red](Files/telefonos.png)
+
 5. Configuración de los teléfonos IP
 
 Los teléfonos IP deben ser configurados para conectarse a la central telefónica IP(PBX). La configuración suele realizarse mediante un software de administración proporcionado por el proveedor de servicios de telefonía IP.
@@ -72,7 +74,9 @@ Detalles técnicos
 
 A continuación se detallan algunos de los aspectos técnicos más importantes a tener en cuenta en la instalación de telefonía IP en una empresa:
 
-Ancho de banda: El ancho de banda necesario para la telefonía IP depende del número de extensiones y del tipo de llamadas que se realicen. En general, se recomienda un ancho de banda de al menos 1 Mbps por extensión para llamadas internas y de 2 Mbps por extensión para llamadas externas. Ancho de banda actual 100 mbp
+Ancho de banda: El ancho de banda necesario para la telefonía IP depende del número de extensiones y del tipo de llamadas que se realicen. En general, se recomienda un ancho de banda de al menos 1 Mbps por extensión para llamadas internas y de 2 Mbps por extensión para llamadas externas. Ancho de banda actual 100 mbp.
+
+![MbpsTest](Files/MbpsTest.png)
 
 Calidad de la conexión: La calidad de la conexión a Internet es un factor importante para garantizar una buena calidad de voz en las llamadas. La conexión debe ser estable y con un ping bajo.
 
