@@ -18,10 +18,10 @@ Tambien esta la opcion que recomienda el tecnico de GTD
 ### iContel
 
 
-Cotización en iContel [Ver Documento](Files\"Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_arriendo pdf.pdf").
+Cotización en iContel [Ver Documento](Files\Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_arriendo.pdf).
 
 
-Cotización en iContel [Ver Documento](Files\"Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_Vta pdf.pdf").
+Cotización de venta en iContel [Ver Documento](Files\Cotización_Techno_Refractarios_S_A_-_Telefonia_IP_Vta.pdf).
 
 ### GTD
 Falta que llegue 
