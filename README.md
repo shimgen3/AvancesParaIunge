@@ -22,9 +22,19 @@
 - carga automatica de cartolas
 - operaciones transaccionales(sql)
 - redondeo de pesos 
-
+Alejandro 
 - pago multiempresa por servipag
 - habilitar cheques automaticamente despues de 24 horas 
+Veronica
+- pago multiempresa por servipag
+- mantener forma de hacer los pago remesa transferencia por banco, al debitarlas hay que hacerlas una por una 
+se cuadran los cargos 
+- mostrar transferencias pendiente
+- correos o avisos de solicitudes remotas 
+- difenecas en comiciones de transbanck 
+- compra de dolares se cobra pero se abonan al dia siuiente despues de cierta hora 
+
+
 
 ## Tarea 4: Buscar el mejor lenguaje de programación
 - [x] Investigar estandares del mercado.
